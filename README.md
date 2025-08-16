@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # prueba
 
 descripcion
@@ -56,3 +57,6 @@ Python 3.12
 
 ## Licencia
 MIT license
+=======
+# prueba_repo
+>>>>>>> 3eeefdca3dffac122b2aa8a657fff043bc1ba813
